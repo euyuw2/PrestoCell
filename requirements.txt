@@ -1,0 +1,12 @@
+tifffile
+scikit-image
+pandas
+numpy
+connected-components-3d
+Pillow
+matplotlib
+scipy
+napari
+PyQt5
+gudhi
+cellpose
