@@ -1,7 +1,15 @@
 # PrestoCell
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
+## Quick Start
+Install all required packages
+```commandline
+pip install -r requirements.txt
+```
+How to run
+```commandline
+python main.py
+```
 Install all required packages by "pip install -r requirements.txt"
 
-Run the program by running "python main.py" in the terminal.
 
-Download test file from "https://drive.google.com/file/d/1gRtguwxh6VR0bmW2wfdIVNkn0fgzzy60/view?usp=sharing" and run the program using the parameters specified in Testfile_parameters.pdf
