@@ -3,6 +3,10 @@
 
 https://github.com/euyuw2/PrestoCell/assets/25143033/eda88b93-f567-4932-a4cb-78add195785d
 
+PrestoCell is an open-source microglia segmentation framework implemented in Python. 
+PrestoCell uses persistence-based clustering for segmentation and integrates a human-in-the-loop postprocessing interface 
+with Napari.
+
 ## Quick Start
 Install all required packages
 ```commandline
