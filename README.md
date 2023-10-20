@@ -16,4 +16,5 @@ How to run
 ```commandline
 python main.py
 ```
-Install all required packages by "pip install -r requirements.txt"
+
+For more details on how to use PrestoCell, please see the [user guide](./PrestoCell%20user%20guide.pdf)
