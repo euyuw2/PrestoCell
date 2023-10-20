@@ -1,9 +1,7 @@
 # PrestoCell
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
-https://github.com/euyuw2/PrestoCell/assets/25143033/9ed76619-5a7b-4050-bedc-08c1d694ad6b
-
-
+https://github.com/euyuw2/PrestoCell/assets/25143033/eda88b93-f567-4932-a4cb-78add195785d
 
 ## Quick Start
 Install all required packages
