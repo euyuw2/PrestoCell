@@ -1,5 +1,6 @@
 # PrestoCell
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+[![DOI](https://zenodo.org/badge/683294048.svg)](https://zenodo.org/doi/10.5281/zenodo.10237501)
 
 https://github.com/euyuw2/PrestoCell/assets/25143033/eda88b93-f567-4932-a4cb-78add195785d
 
